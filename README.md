@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about making a positive impact in t
 
 ## 🚀 About Me
 - 🎓 **Criminology and Criminal Justice Student**: Currently pursuing my bachelor's degree to explore the intricacies of criminal behavior and justice systems.
-- 🔍 **OSINT Enthusiast**: Completed the training and passed the required 3 practical exams to participate in aiding*Project 1591* in identifying potential victims of human trafficking, and continuously building skills in investigative methodologies.
+- 🔍 **OSINT Enthusiast**: Completed the training and passed the required 3 practical exams to participate in aiding *Project 1591* in identifying potential victims of human trafficking, and continuously building skills in investigative methodologies.
 - 🌱 **Beginner in Tech**: Just starting my journey in technology and development, eager to learn and grow. 💖
 - 🌍 **Career Aspirations**: Aiming to work in intelligence analysis or combat human trafficking and child exploitation.
 
